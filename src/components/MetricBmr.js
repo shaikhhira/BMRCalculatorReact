@@ -16,7 +16,7 @@ class MetricBmr extends React.Component {
       activityVisible: false
     };
   }
-
+// handle to take value from input
   handleWeightChange = (event) => {
     this.setState({
       weight: event.target.value
