@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BMRCalculatorReact/static/css/main.fb6c2829.chunk.css",
+    "main.js": "/BMRCalculatorReact/static/js/main.8183ade9.chunk.js",
+    "main.js.map": "/BMRCalculatorReact/static/js/main.8183ade9.chunk.js.map",
+    "runtime-main.js": "/BMRCalculatorReact/static/js/runtime-main.1682b9c9.js",
+    "runtime-main.js.map": "/BMRCalculatorReact/static/js/runtime-main.1682b9c9.js.map",
+    "static/js/2.e94f728f.chunk.js": "/BMRCalculatorReact/static/js/2.e94f728f.chunk.js",
+    "static/js/2.e94f728f.chunk.js.map": "/BMRCalculatorReact/static/js/2.e94f728f.chunk.js.map",
+    "static/js/3.44bbe9e4.chunk.js": "/BMRCalculatorReact/static/js/3.44bbe9e4.chunk.js",
+    "static/js/3.44bbe9e4.chunk.js.map": "/BMRCalculatorReact/static/js/3.44bbe9e4.chunk.js.map",
+    "index.html": "/BMRCalculatorReact/index.html",
+    "static/css/main.fb6c2829.chunk.css.map": "/BMRCalculatorReact/static/css/main.fb6c2829.chunk.css.map",
+    "static/js/2.e94f728f.chunk.js.LICENSE.txt": "/BMRCalculatorReact/static/js/2.e94f728f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1682b9c9.js",
+    "static/js/2.e94f728f.chunk.js",
+    "static/css/main.fb6c2829.chunk.css",
+    "static/js/main.8183ade9.chunk.js"
+  ]
+}
